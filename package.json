@@ -1,0 +1,17 @@
+{
+  "name": "tailwindcss-hover-hover",
+  "version": "1.0.0",
+  "description": "Additional tailwindcss hover variants for non-touch devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "tailwindcss-plugin",
+    "plugin"
+  ],
+  "author": "Wessel van Ree",
+  "license": "MIT"
+}
